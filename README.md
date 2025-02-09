@@ -34,8 +34,8 @@ Ensure you have **Docker** installed on your system. If not, follow the instruct
 Clone the project to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/learningwithmainsh/BMI_Calculator.git
+cd BMI_Calculator
 ```
 
 ### 2. Build the Docker Image
@@ -52,16 +52,17 @@ Start the container with the following command:
 docker run -p 8501:8501 bmi-calculator
 ```
 
-### 4. Access the Application 📲💻
+### 4. Access the Application 📲🖼️
 Open your web browser and navigate to:
 
 ```
 http://localhost:8501
+http://serverip:8501
 ```
 
 ---
 
-## Customization 🌀
+## Customization 💀
 To modify the app, edit the `app.py` file and rebuild the Docker image using the `docker build` command.
 
 ---
@@ -78,7 +79,15 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## Author 👤
-Created by [Your Name]. Feel free to reach out for any queries or collaborations!
+Created by Manish Pandey. Feel free to reach out for any queries or collaborations!
+
+- [LinkedIn](https://www.linkedin.com/in/learningwithmanish)
+- [WhatsApp](https://wa.me/918765368754)
+- [Skype](live:.cid.16ae1ff3196c4f4e)
+- [Medium](https://medium.com/@mnshkmrpnd)
+- [Threads](https://www.threads.net/@learningwithmanish)
+- [Instagram](https://www.instagram.com/learningwithmanish/?hl=en)
+- [Facebook](https://www.facebook.com/pandey.manish.106)
 
 ---
 
